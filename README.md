@@ -2,13 +2,13 @@
 <h3 align="center">Software Developer | PhD Scholar at University of Mysore | UGC NET and KSET</h3>
 
 
-- 🔭 I’m currently working on **Computer Vision and Object Detection Tasks**
+- 🔭 I’m currently working on **Computer Vision, Autonomous driving, Object Detection Tasks**
 
 - 🌱 I’m currently learning **Advanced computer vision frameworks, deep learning models, and automation techniques**
 
 - 👯 I’m looking to collaborate on **Software Development and Automation Projects with AI**
 
-- 📝 I regularly write articles on [Computer Visions](Computer Visions)
+- 📝 I regularly write articles on **Computer Visions, Autonomous vehicles, traffic sign detection**
 
 - 💬 Ask me about **Object detection, software development, AI-driven automation, and custom neural network architectures**
 
