@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Object detection, software development, AI-driven automation, and custom neural network architectures**
 
-- 📫 How to reach me **somudotm@gmail.com**
+- 📫 Connect with me **somudotm@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
